@@ -11,4 +11,5 @@ step2: Download the <a href="https://drive.google.com/file/d/0BwJ2me84dFHIT2syY0
 
 Or you can build the library by youself: Opencv2.4.9, OpenGL, OpenNI2.
 
-step3: Creating a folder named "using_data" in the same path as the solution folder "s1_Landmark_detect_v10"
+step3: Move the folder named "using_data" outside the solution dir, like "move using_data ../using_data".
+
