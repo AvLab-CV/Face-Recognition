@@ -23,7 +23,7 @@ Or you can build the library by youself: Opencv2.4.9, OpenGL, OpenNI2.
 
 2. Face Alignment
 
-    The main code: a3_3_pose_align_demo.cpp, when compile and run, the command win will stop and wait for type in 2 then "enter". Here 2 means the index of sample image at the folder using_data/MPIE_classification/L15_14_0/06/all/001_01_01_140_06.png. The alignment results are saved at using_data/Test_data/
+    The main code: a3_3_pose_align_demo.cpp, when compile and run, the command win will stop and wait for type in 2 then "enter" it. Here 2 means the index of sample image at the folder using_data/MPIE_classification/L15_14_0/06/all/001_01_01_140_06.png. The alignment results are saved at using_data/Test_data/
 
 3. SRC Recognition
 
